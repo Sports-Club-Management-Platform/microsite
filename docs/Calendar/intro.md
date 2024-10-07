@@ -63,5 +63,5 @@ Trailblazer is a groundbreaking initiative aimed at revitalizing the tourism ind
 
 ## Advisors
 
-- **Lecturer** [Nuno Sá Couto](https)
-- **Assistant Lecturer** [Rui Costa](https)
+- **Lecturer:** Nuno Sá Couto
+- **Assistant Lecturer:** Rafael Direito
