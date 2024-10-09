@@ -2,22 +2,39 @@ import clsx from "clsx";
 import Heading from "@theme/Heading";
 import styles from "./styles.module.css";
 import image1 from "@site/static/img/image1.png";
+import image2 from "@site/static/img/image2.png";
+import image3 from "@site/static/img/image3.png";
 
 const FeatureList = [
   {
     title: "Ticket Sales",
     ImgSrc: image1,
-    description: <></>,
+    description: (
+      <>
+        Fans can buy tickets easily through the platform, ensuring a seamless
+        experience from purchase to entry.
+      </>
+    ),
   },
   {
     title: "Membership Management",
-    ImgSrc: image1,
-    description: <></>,
+    ImgSrc: image2,
+    description: (
+      <>
+        Fans can subscribe to or manage their club memberships directly through
+        the platform.
+      </>
+    ),
   },
   {
     title: "Access Control",
-    ImgSrc: image1,
-    description: <></>,
+    ImgSrc: image3,
+    description: (
+      <>
+        Staff members validate tickets efficiently using QR code scanning,
+        guaranteeing secure and fast entry at events.
+      </>
+    ),
   },
 ];
 
