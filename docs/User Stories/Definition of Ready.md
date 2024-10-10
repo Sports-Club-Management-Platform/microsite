@@ -8,10 +8,10 @@ A user story is considered ready for work once it meets all the criteria specifi
 
 ## Our Definition
 
-- **Well-defined history:** The user story is independent and written clearly and concisely, with specific acceptance criteria.
-- **Clear acceptance criteria:** The team has a clear understanding of the requirements and what needs to be done.
-- **Resolved dependencies:** All dependencies or blockers have been identified and resolved.
-- **Effort estimated:** The user story has been estimated by the team (in story points or another metric).
+- **Independent User Story:** The user story does not depend on another User Story(ies) to be implemented.
+- **Clear acceptance criteria:** written in the [Gherkin syntax](https://cucumber.io/docs/gherkin/reference/).
+- **Defined Requirements**: The requirements are well defined and are clearly understood by the development team.
+- **Effort/cost estimated:** The user story has been estimated by the team (in story points).
 
 ## Story Points Estimation
 
