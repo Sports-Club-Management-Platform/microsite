@@ -16,13 +16,13 @@ A user story is considered ready for work once it meets all the criteria specifi
 ## Story Points Estimation
 
 Story points are a way to estimate the amount of effort required to complete a user story in our product backlog.
-So, to better organize the work to be done, before the start of each sprint we evaluated our stories.
+So, to better organize the work to be done, before the start of each sprint we evaluate our stories and their estimated effort.
 
-| How much is known about the task | Dependencies    | How much work effort | Story points |
-| -------------------------------- | --------------- | -------------------- | ------------ |
-| Everything                       | None            | Less than 2 hours    | 1            |
-| Almost everything                | Almost none     | Half a day           | 2            |
-| Something                        | Some            | Up to 2 days         | 3            |
-| Almost nothing                   | Few             | Few days             | 5            |
-| Nothing                          | More than a few | Around a week        | 8            |
-| Nothing                          | Unknown         | More than one week   | 13           |
+| How much is known about the task | Dependencies    | How much work effort | Story points | Example                 |
+| -------------------------------- | --------------- | -------------------- | ------------ | --------------------    |
+| Everything                       | None            | Less than 3 hours    | 1            | Building a Landing Page |
+| Almost everything                | Almost none     | Half a day           | 2            |                         |
+| Something                        | Some            | Up to 2 days         | 3            |                         |
+| Almost nothing                   | Few             | Few days             | 5            |                         |
+| Nothing                          | More than a few | Around a week        | 8            |                         |
+| Nothing                          | Unknown         | More than one week   | 13           |                         |
