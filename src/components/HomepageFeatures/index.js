@@ -12,7 +12,7 @@ const FeatureList = [
     description: (
       <>
         Fans can buy tickets easily through the platform, ensuring a seamless
-        experience from purchase to entry.
+        experience from purchase to entry. This feature allows for easy management of ticket sales and event attendance.
       </>
     ),
   },
@@ -22,7 +22,7 @@ const FeatureList = [
     description: (
       <>
         Fans can subscribe to or manage their club memberships directly through
-        the platform.
+        the platform. This feature allows for easy tracking and management of club memberships.
       </>
     ),
   },
@@ -32,7 +32,7 @@ const FeatureList = [
     description: (
       <>
         Staff members validate tickets efficiently using QR code scanning,
-        guaranteeing secure and fast entry at events.
+        guaranteeing secure and fast entry at events. This feature also allows for easy tracking of attendance and ticket sales.
       </>
     ),
   },
@@ -42,7 +42,7 @@ function Feature({ ImgSrc, title, description }) {
   return (
     <div className={clsx("col col--4")}>
       <div className="text--center">
-        <img src={ImgSrc} alt={title} style={{ width: "250px" }} />
+        <img src={ImgSrc} alt={title} style={{ width: "250px", borderRadius: "5%" }} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>

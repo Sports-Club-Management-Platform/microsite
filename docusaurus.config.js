@@ -8,8 +8,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Sports Club Management Platform",
-  tagline: "A platform to manage sports clubs",
+  title: "ClubSync",
+  tagline: "Sync Your Team, Power Your Game",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -63,12 +63,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/card.jpg",
+      image: "img/Light-Mode-Logo.png",
       navbar: {
-        title: "Sports Club Management Platform",
+        title: "ClubSync",
         logo: {
           alt: "Sports Club Management Platform Logo",
-          src: "img/logo.png",
+          src: "img/Light-Mode-Logo.png",
+          srcDark: "img/Dark-Mode-Logo.png",
         },
         items: [
           {
@@ -90,6 +91,12 @@ const config = {
             position: "right",
             className: "jira-link",
           },
+          {
+           to:"https://uapt33090-my.sharepoint.com/:f:/g/personal/andreaoliveira_ua_pt/EhW0G5_JZZtBqegbRjKbBJ4BN15x2xUjN-kHasX7VICpAw?e=iwcXV4",
+           label: "OneDrive",
+           position: "right",
+           className: "drive-link", 
+          }
         ],
       },
       footer: {
