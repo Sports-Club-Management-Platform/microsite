@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Sports Club Management Platform Blog</title>
+        <title>ClubSync Blog</title>
         <link>https://sports-club-management-platform.github.io/microsite/blog</link>
-        <description>Sports Club Management Platform Blog</description>
+        <description>ClubSync Blog</description>
         <lastBuildDate>Mon, 07 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
@@ -13,9 +13,8 @@
             <link>https://sports-club-management-platform.github.io/microsite/blog/team_presentation</link>
             <guid>https://sports-club-management-platform.github.io/microsite/blog/team_presentation</guid>
             <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[---]]></description>
-            <content:encoded><![CDATA[<hr>
-<p>During the development of our application we spread the work to be done by sprints. Each sprint had a duration of 2 weeks (except the first one) and at the end of each sprint we had a meeting to discuss the work done and the work to be done in the next sprint.</p>
+            <description><![CDATA[During the development of our application we spread the work to be done by sprints. Each sprint had a duration of 2 weeks (except the first one) and at the end of each sprint we had a meeting to discuss the work done and the work to be done in the next sprint.]]></description>
+            <content:encoded><![CDATA[<p>During the development of our application we spread the work to be done by sprints. Each sprint had a duration of 2 weeks (except the first one) and at the end of each sprint we had a meeting to discuss the work done and the work to be done in the next sprint.</p>
 <p>The distribution made is listed below:</p>
 <table><thead><tr><th>Sprint</th><th>Scrum Master</th><th>Product Owner</th><th>Developers</th></tr></thead></table>]]></content:encoded>
         </item>

@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sports-club-management-platform.github.io/microsite/blog</id>
-    <title>Sports Club Management Platform Blog</title>
+    <title>ClubSync Blog</title>
     <updated>2024-10-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sports-club-management-platform.github.io/microsite/blog"/>
-    <subtitle>Sports Club Management Platform Blog</subtitle>
+    <subtitle>ClubSync Blog</subtitle>
     <icon>https://sports-club-management-platform.github.io/microsite/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[The Team]]></title>
         <id>https://sports-club-management-platform.github.io/microsite/blog/team_presentation</id>
         <link href="https://sports-club-management-platform.github.io/microsite/blog/team_presentation"/>
         <updated>2024-10-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[---]]></summary>
-        <content type="html"><![CDATA[<hr>
-<p>During the development of our application we spread the work to be done by sprints. Each sprint had a duration of 2 weeks (except the first one) and at the end of each sprint we had a meeting to discuss the work done and the work to be done in the next sprint.</p>
+        <summary type="html"><![CDATA[During the development of our application we spread the work to be done by sprints. Each sprint had a duration of 2 weeks (except the first one) and at the end of each sprint we had a meeting to discuss the work done and the work to be done in the next sprint.]]></summary>
+        <content type="html"><![CDATA[<p>During the development of our application we spread the work to be done by sprints. Each sprint had a duration of 2 weeks (except the first one) and at the end of each sprint we had a meeting to discuss the work done and the work to be done in the next sprint.</p>
 <p>The distribution made is listed below:</p>
 <table><thead><tr><th>Sprint</th><th>Scrum Master</th><th>Product Owner</th><th>Developers</th></tr></thead></table>]]></content>
         <author>
