@@ -10,9 +10,7 @@ In agile software development, the “Definition of Done” (DoD) is an essentia
 
 - **Developed:** The functionality expected of the story has been fully developed.
 - **Tested:** Successfully passes the implemented tests without errors.
-- **Documented:** Ensure that the functionality is well-documented, including:
-  - Well-commented code
-  - Technical documentation
+- **Documented:** Ensure that the functionality is well-documented.
 - **Acceptance Criteria Met:** Ensure that all acceptance criteria specified in the user story are satisfied.
 - **Quality Gate Clearance:** Verify that the product increment meets all predefined quality standards and pass the quality gate.
 - **Peer Review:** PR reviewed and approved by a different team member.

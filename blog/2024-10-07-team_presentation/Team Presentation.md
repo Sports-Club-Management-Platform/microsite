@@ -12,3 +12,4 @@ The distribution made is listed below:
 
 | Sprint | Scrum Master | Product Owner | Developers |
 | ------ | ------------ | ------------- | ---------- |
+| 1 | Alexandre Cotorobai | Miguel Belchior | Hugo Correia, Joaquim Rosa, André Oliveira |
