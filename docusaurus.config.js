@@ -86,17 +86,23 @@ const config = {
             className: "github-link",
           },
           {
+            to: "https://sonarcloud.io/organizations/clubsync-es/projects",
+            label: "SonarCloud",
+            position: "right",
+            className: "sonarcloud-link",
+          },
+          {
             to: "https://sports-club-management-platform.atlassian.net/jira/software/projects/SCRUM/boards/1",
             label: "Jira",
             position: "right",
             className: "jira-link",
           },
           {
-           to:"https://uapt33090-my.sharepoint.com/:f:/g/personal/andreaoliveira_ua_pt/EhW0G5_JZZtBqegbRjKbBJ4BN15x2xUjN-kHasX7VICpAw?e=iwcXV4",
-           label: "OneDrive",
-           position: "right",
-           className: "drive-link", 
-          }
+            to: "https://uapt33090-my.sharepoint.com/:f:/g/personal/andreaoliveira_ua_pt/EhW0G5_JZZtBqegbRjKbBJ4BN15x2xUjN-kHasX7VICpAw?e=iwcXV4",
+            label: "OneDrive",
+            position: "right",
+            className: "drive-link",
+          },
         ],
       },
       footer: {
