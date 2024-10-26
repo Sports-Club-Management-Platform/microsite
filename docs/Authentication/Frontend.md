@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 ### Login and Register Buttons
 
 Buttons are provided to navigate to the Cognito hosted UI for user login and registration.

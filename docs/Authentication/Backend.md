@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 ### User Authentication
 
 This module handles user authentication using Amazon Cognito User Pool. It provides functions to authenticate users with an authorization code, retrieve user information using the access token, and log users out by revoking their access tokens.

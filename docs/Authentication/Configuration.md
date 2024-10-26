@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 ### Environment Variables
 
 Ensure the following environment variables are set in a .env file:
