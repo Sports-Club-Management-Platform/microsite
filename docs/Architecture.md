@@ -22,6 +22,10 @@ This microservice manages the processing of payments using an external service. 
 
 This microservice is responsible for managing the creation, sale, and distribution of tickets for games. It handles ticket booking, issuance, and validation.
 
+### Games management API
+
+This microservice manages the games available on the platform. It includes features such as game creation, scheduling, and results tracking. It also provides information about upcoming games, past games, and pavilions.
+
 ### Emails management API
 
 This microservice handles the sending of emails for various purposes, such as notifications, confirmations, and updates. It integrates with email delivery services to ensure that the platform can communicate with its users effectively.
@@ -29,10 +33,6 @@ This microservice handles the sending of emails for various purposes, such as no
 ### Identity Provider
 
 This microservice provides authentication and user identity management using AWS Cognito. It ensures secure access to the platform by handling user login, token generation, and session management.
-
-### System Logs and Metrics
-
-The system collects data about itself and its inner logic to provide insightful information to system administrators.
 
 ## Microservices Architecture
 
