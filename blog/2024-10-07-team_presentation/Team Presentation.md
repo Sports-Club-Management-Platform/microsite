@@ -10,6 +10,7 @@ During the development of our application we spread the work to be done by sprin
 
 The distribution made is listed below:
 
-| Sprint | Scrum Master | Product Owner | Developers |
-| ------ | ------------ | ------------- | ---------- |
-| 1 | Alexandre Cotorobai | Miguel Belchior | Hugo Correia, Joaquim Rosa, André Oliveira |
+| Sprint | Scrum Master        | Product Owner   | Developers                                    |
+| ------ | ------------------- | --------------- | --------------------------------------------- |
+| 1      | Alexandre Cotorobai | Miguel Belchior | Hugo Correia, Joaquim Rosa, André Oliveira    |
+| 2      | Hugo Correia        | André Oliveira  | Joaquim Rosa, Miguel Belchior, André Oliveira |
