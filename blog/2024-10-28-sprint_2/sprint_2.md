@@ -29,64 +29,77 @@ In order to complete the second milestone of our project, it is expectable to co
 
 | Expected     | Quantity |
 | ------------ | -------- |
-| Tasks        | 12       |
-| Epics        | 1        |
-| Story Points | 7        |
+| Tasks        | 17       |
+| Epics        | 2        |
+| Story Points | 15        |
 
 ## Sprint Backlog
 
 | Taks (SCRUM-\*) | Description                          | Developer       | State |
 | --------------- | ------------------------------------ | --------------- | ----- |
-| SCRUM-8         | Landing Page - Frontend              | Joaquim Rosa    | Done  |
-| SCRUM-9         | Landing Page - Testing               | Miguel Belchior | Done  |
-| SCRUM-10        | AWS Cognito Setup                    | André Oliveira  | Done  |
-| SCRUM-11        | AWS Cognito Setup                    | André Oliveira  | Done  |
-| SCRUM-12        | API Authentication and Authorization | André Oliveira  | Done  |
-| SCRUM-13        | Landing Page - PWA Support           | Joaquim Rosa    | Done  |
-| SCRUM-14        | API Authentication and Authorization | All             | Done  |
-| SCRUM-15        | Landing Page - Little Refacture      | Hugo Correia    | Done  |
-| SCRUM-16        | Backend Testing                      | Miguel Belchior | Done  |
-| SCRUM-17        | Link Back-end with Front-end         | Hugo Correia    | Done  |
-| SCRUM-18        | User Login - Testing                 | Joaquim Rosa    | Done  |
-| SCRUM-19        | User Registration - Testing          | Joaquim Rosa    | Done  |
+| SCRUM-27         | First Version of Matches Page       | Hugo Correia   | Done  |
+| SCRUM-28         | Update Landing Page With the Next Match | Hugo Correia | Done  |
+| SCRUM-31        | Games API                    | Joaquim Rosa  | Done  |
+| SCRUM-37        | Populate Games DB                    | Joaquim Rosa  | Done  |
+| SCRUM-38        | Link Backend with Frontend | Hugo Correia  | Done  |
+| SCRUM-40        | Games API - Testing           | Joaquim Rosa    | Done  |
+| SCRUM-43        | Frontend Tests | Hugo Correia             | Done  |
+| SCRUM-29        | Ticket microservice API     | Alexandre Cotorobai    | Done  |
+| SCRUM-36        | Purchase ticket Page v1                      | Hugo Correia | Done  |
+| SCRUM-39        | Backend Testing         | Alexandre Cotorobai    | Done  |
+| SCRUM-32        | User logout implementation | Andre Oliveira    | Done  |
+| SCRUM-33        | User logout testing - Backend         | Andre Oliveira    | Done  |
+| SCRUM-34        | Integration with Frontend         | Andre Oliveira    | Done  |
+| SCRUM-35        | User logout testing - Frontend         | Joaquim Rosa    | Done  |
+| SCRUM-41       | Frontend Checkout     | Miguel Belchior    | Done  |
+| SCRUM-42       | Backend Checkout     | Miguel Belchior    | Done  |
+| SCRUM-44       | Checkout success and cancelled pages     | Andre Oliveira    | Done  |
 
 ### Task Status (Completed/Not Completed)
 
-- [x] SCRUM-8: Landing Page - Frontend
-- [x] SCRUM-9: Landing Page - Testing
-- [x] SCRUM-10: AWS Cognito Setup
-- [x] SCRUM-11: AWS Cognito Setup
-- [x] SCRUM-12: API Authentication and Authorization
-- [x] SCRUM-13: Landing Page - PWA Support
-- [x] SCRUM-14: API Authentication and Authorization
-- [x] SCRUM-15: Landing Page - Little Refacture
-- [x] SCRUM-16: Backend Testing
-- [x] SCRUM-17: Link Back-end with Front-end
-- [x] SCRUM-18: User Login - Testing
-- [x] SCRUM-19: User Registration - Testing
+- [x] SCRUM-27: First Version of Matches Page
+- [x] SCRUM-28: Update Landing Page With the Next Match
+- [x] SCRUM-31: Games API
+- [x] SCRUM-37: Populate Games DB
+- [x] SCRUM-38: Link Backend with Frontend
+- [x] SCRUM-40: Games API - Testing
+- [x] SCRUM-43: Frontend Tests
+- [x] SCRUM-29: Ticket microservice API
+- [x] SCRUM-36: Purchase ticket Page v1
+- [x] SCRUM-39: Backend Testing
+- [x] SCRUM-32: User logout implementation
+- [x] SCRUM-33: User logout testing - Backend
+- [x] SCRUM-35: User logout testing - Frontend
+- [x] SCRUM-41: Frontend Checkout
+- [x] SCRUM-42: Backend Checkout
+- [x] SCRUM-44: Checkout success and cancelled pages
 
 ## User Stories
 
 | User Stories | Description       | Developer | State | Story Points |
 | ------------ | ----------------- | --------- | ----- | ------------ |
-| SCRUM-5      | User Registration | All       | Done  | 3            |
-| SCRUM-6      | User Login        | All       | Done  | 3            |
-| SCRUM-7      | Landing Page      | All       | Done  | 1            |
+| SCRUM-23      | List Available Matches | All       | Done  | 3            |
+| SCRUM-21      | Buy Ticket        | All            | Done       | 3            |
+| SCRUM-30      | User Logout      | All             | Done        | 1            |
+| SCRUM-26      | Payment Checkout | All       | Done        | 8          |
 
-Team Velocity: 7
+Team Velocity: 15
 
 ## Sprint Review
 
 | Concluded    | Quantity |
 | ------------ | -------- |
-| Tasks        | 12       |
-| Epics        | 0        |
-| Story Points | 7        |
+| Tasks        | 17       |
+| Epics        | 1        |
+| Story Points | 15        |
 
 ## Sprint Retrospective
 
-Despite the short length of this first sprint, we didn’t expect to deliver a large number of features. However, we were able to complete all the tasks we had planned. These include three user stories related to the user authentication epic: user registration, login, and the landing page.
+### What we did well
+
+We managed to complete all the tasks we had planned for this sprint. We were able to work together and help each other when needed. We also managed to have a good communication between the team members. We were able to have a good understanding of the tasks and the work that needed to be done. 
+Understanding Stripe API and implementing the payment checkout was a big achievement for the team.
 
 ## Sprint Burndown Chart
 
-![Burndown Chart](../../static/img/sprints/burndown_chart_sprint_1.png)
+![Burndown Chart](../../static/img/sprints/burndown_chart_sprint_2.png)
