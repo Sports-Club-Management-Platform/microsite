@@ -20,12 +20,24 @@ authors: [hugo]
 
 In order to complete the second milestone of our project, it is expectable to conclude the following sprints goals:
 
-- Prepare First Presentation
-- Prepare the Initial Presentation Website
-- Setup Backlog
-- Set the "Definition of Ready"
-- Set the "Definition of Done"
-- Architecture
+- Implement the first version of the Matches Page
+- Update the Landing Page with the next match
+- Implement the Games API
+- Populate the Games DB
+- Link the Backend with the Frontend
+- Implement the Games API - Testing
+- Implement the Frontend Tests
+- Implement the Ticket microservice API
+- Implement the Purchase ticket Page v1
+- Implement the Backend Testing
+- Implement the User logout implementation
+- Implement the User logout testing - Backend
+- Implement the Integration with Frontend
+- Implement the User logout testing - Frontend
+- Implement the Frontend Checkout
+- Implement the Backend Checkout
+- Implement the Checkout success and cancelled pages
+- Implement the Payment Checkout
 
 | Expected     | Quantity |
 | ------------ | -------- |
