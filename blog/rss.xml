@@ -4,10 +4,50 @@
         <title>ClubSync Blog</title>
         <link>https://sports-club-management-platform.github.io/microsite/blog</link>
         <description>ClubSync Blog</description>
-        <lastBuildDate>Mon, 28 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Sprint 3]]></title>
+            <link>https://sports-club-management-platform.github.io/microsite/blog/Sprint 3</link>
+            <guid>https://sports-club-management-platform.github.io/microsite/blog/Sprint 3</guid>
+            <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[From: 2024-10-28]]></description>
+            <content:encoded><![CDATA[<p><strong>From</strong>: 2024-10-28</p>
+<p><strong>To</strong>: 2024-11-11</p>
+<p><strong>Scrum Master</strong>: Joaquim Rosa</p>
+<p><strong>Product Owner</strong>: Alexandre Cotorobai</p>
+<p><strong>Developers</strong>: Miguel Belchior, André Oliveira, Hugo Correia</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-goal">Sprint Goal<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%203#sprint-goal" class="hash-link" aria-label="Direct link to Sprint Goal" title="Direct link to Sprint Goal">​</a></h2>
+<p>In order to complete the second milestone of our project, it is expectable to conclude the following sprints goals:</p>
+<ul>
+<li>Access Ticket Information</li>
+<li>Admin Login and Registration</li>
+<li>List Purchased Tickets - Admin</li>
+<li>Create Tickets - Admin</li>
+<li>Deploy the project using Terraform</li>
+</ul>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>4</td></tr><tr><td>Epics</td><td>2</td></tr><tr><td>Story Points</td><td>12</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-backlog">Sprint Backlog<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%203#sprint-backlog" class="hash-link" aria-label="Direct link to Sprint Backlog" title="Direct link to Sprint Backlog">​</a></h2>
+<table><thead><tr><th>Tasks (SCRUM-*)</th><th>Description</th><th>Developer</th><th>State</th></tr></thead><tbody><tr><td>SCRUM-24</td><td>Access Ticket Information</td><td>None</td><td>TODO</td></tr><tr><td>SCRUM-49</td><td>Admin Login and Registration</td><td>None</td><td>TODO</td></tr><tr><td>SCRUM-48</td><td>List Purchased Tickets - Admin</td><td>None</td><td>TODO</td></tr><tr><td>SCRUM-46</td><td>Create Tickets - Admin</td><td>None</td><td>TODO</td></tr></tbody></table>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="task-status-completednot-completed">Task Status (Completed/Not Completed)<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%203#task-status-completednot-completed" class="hash-link" aria-label="Direct link to Task Status (Completed/Not Completed)" title="Direct link to Task Status (Completed/Not Completed)">​</a></h3>
+<ul>
+<li>[] SCRUM-24: Access Ticket Information</li>
+<li>[] SCRUM-49: Admin Login and Registration</li>
+<li>[] SCRUM-48: List Purchased Tickets - Admin</li>
+<li>[] SCRUM-46: Create Tickets - Admin</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="user-stories">User Stories<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%203#user-stories" class="hash-link" aria-label="Direct link to User Stories" title="Direct link to User Stories">​</a></h2>
+<table><thead><tr><th>User Stories</th><th>Description</th><th>Developer</th><th>State</th><th>Story Points</th></tr></thead><tbody><tr><td>SCRUM-24</td><td>Access Ticket Information</td><td>None</td><td>TODO</td><td>3</td></tr><tr><td>SCRUM-49</td><td>Admin Login and Registration</td><td>None</td><td>TODO</td><td>3</td></tr><tr><td>SCRUM-48</td><td>List Purchased Tickets - Admin</td><td>None</td><td>TODO</td><td>3</td></tr><tr><td>SCRUM-46</td><td>Create Tickets - Admin</td><td>None</td><td>TODO</td><td>3</td></tr></tbody></table>
+<p>Team Velocity: 0</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%203#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
+<table><thead><tr><th>Concluded</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>0</td></tr><tr><td>Epics</td><td>0</td></tr><tr><td>Story Points</td><td>0</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-retrospective">Sprint Retrospective<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%203#sprint-retrospective" class="hash-link" aria-label="Direct link to Sprint Retrospective" title="Direct link to Sprint Retrospective">​</a></h2>
+<p>In this sprint, we were unable to complete any of the tasks due to a lack of time to invest in the project. We were working on other projects, and none of the team members could dedicate much time to this project. We tried to do the terraform for deploying the project, but we were unable to complete it. We were also unable to do the daily stand-ups; instead, we organized two short weekly meetings to discuss each team member's progress.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burndown-chart">Sprint Burndown Chart<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%203#sprint-burndown-chart" class="hash-link" aria-label="Direct link to Sprint Burndown Chart" title="Direct link to Sprint Burndown Chart">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Burndown Chart" src="https://sports-club-management-platform.github.io/microsite/assets/images/burndown_chart_sprint_3-4f896b444afce3c7aa7e2399c09b67b7.png" width="1553" height="530" class="img_ev3q"></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Sprint 2]]></title>
             <link>https://sports-club-management-platform.github.io/microsite/blog/Sprint 2</link>
