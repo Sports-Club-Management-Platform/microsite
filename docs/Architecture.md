@@ -37,3 +37,7 @@ This microservice provides authentication and user identity management using AWS
 ## Microservices Architecture
 
 ![Architecture Image](../static/img/Arquitetura.png)
+
+## Cloud Architecture
+
+![Cloud Architecture Image](../static/img/ArquiteturaCloud.png)
