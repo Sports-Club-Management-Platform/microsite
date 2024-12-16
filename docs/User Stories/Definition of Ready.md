@@ -10,6 +10,7 @@ A user story is considered ready for work once it meets all the criteria specifi
 
 - **Independent User Story:** The user story does not depend on another User Story(ies) to be implemented.
 - **Clear acceptance criteria:** written in the [Gherkin syntax](https://cucumber.io/docs/gherkin/reference/).
+- **Mockups/Designs:** The user story has mockups or designs that help the team understand the requirements.
 - **Defined Requirements**: The requirements are well defined and are clearly understood by the development team.
 - **Effort/cost estimated:** The user story has been estimated by the team (in story points).
 
