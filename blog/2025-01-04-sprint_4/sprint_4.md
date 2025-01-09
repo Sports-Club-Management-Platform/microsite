@@ -8,7 +8,7 @@ authors: [jake]
 
 **From**: 2024-12-20
 
-**To**: 2024-01-03
+**To**: 2025-01-03
 
 **Scrum Master**: Hugo Correia
 
