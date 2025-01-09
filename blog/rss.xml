@@ -174,5 +174,96 @@ Understanding Stripe API and implementing the payment checkout was a big achieve
 <p>The distribution made is listed below:</p>
 <table><thead><tr><th>Sprint</th><th>Scrum Master</th><th>Product Owner</th><th>Developers</th></tr></thead><tbody><tr><td>1</td><td>Alexandre Cotorobai</td><td>Miguel Belchior</td><td>Hugo Correia, Joaquim Rosa, André Oliveira</td></tr><tr><td>2</td><td>Hugo Correia</td><td>André Oliveira</td><td>Joaquim Rosa, Miguel Belchior, André Oliveira</td></tr></tbody></table>]]></content:encoded>
         </item>
+        <item>
+            <title><![CDATA[Sprint 5]]></title>
+            <link>https://sports-club-management-platform.github.io/microsite/blog/Sprint 5</link>
+            <guid>https://sports-club-management-platform.github.io/microsite/blog/Sprint 5</guid>
+            <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[From: 2024-01-03]]></description>
+            <content:encoded><![CDATA[<p><strong>From</strong>: 2024-01-03</p>
+<p><strong>To</strong>: 2024-01-09</p>
+<p><strong>Scrum Master</strong>: Miguel Belchior</p>
+<p><strong>Product Owner</strong>: Alexandre Cotorobai</p>
+<p><strong>Developers</strong>: Joaquim Rosa, Hugo Correia, André Oliveira</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-goal">Sprint Goal<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%205#sprint-goal" class="hash-link" aria-label="Direct link to Sprint Goal" title="Direct link to Sprint Goal">​</a></h2>
+<p>In order to complete this milestone of our project, it is expectable to conclude the following sprints goals:</p>
+<ul>
+<li>Buy Ticket - Persist in Ticket Service</li>
+<li>Access Ticket Information - User</li>
+<li>Create Tickets - Admin</li>
+<li>Edit Ticket - Admin</li>
+<li>List Purchased Tickets - Admin</li>
+<li>Validate Ticket</li>
+<li>List Created Tickets - Admin</li>
+</ul>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>7</td></tr><tr><td>Epics</td><td>2</td></tr><tr><td>Story Points</td><td>23</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-backlog">Sprint Backlog<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%205#sprint-backlog" class="hash-link" aria-label="Direct link to Sprint Backlog" title="Direct link to Sprint Backlog">​</a></h2>
+<table><thead><tr><th>Taks (SCRUM-*)</th><th>Description</th><th>Developer</th><th>State</th></tr></thead><tbody><tr><td>SCRUM-24</td><td>Access Ticket Information - User</td><td>Hugo Correia</td><td>TODO</td></tr><tr><td>SCRUM-46</td><td>Create Tickets - Admin</td><td>Miguel Belchior</td><td>Done</td></tr><tr><td>SCRUM-21</td><td>Buy Ticket - Persist in Ticket Service</td><td>Miguel Belchior</td><td>Done</td></tr><tr><td>SCRUM-47</td><td>Edit Ticket - Admin</td><td>André Oliveira</td><td>Done</td></tr><tr><td>SCRUM-48</td><td>List Purchased Tickets - Admin</td><td>Unassigned</td><td>TODO</td></tr><tr><td>SCRUM-50</td><td>Validate Ticket</td><td>André Oliveira</td><td>Done</td></tr><tr><td>SCRUM-55</td><td>List Created Tickets - Admin</td><td>Hugo Correia</td><td>Done</td></tr></tbody></table>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="task-status-completednot-completed">Task Status (Completed/Not Completed)<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%205#task-status-completednot-completed" class="hash-link" aria-label="Direct link to Task Status (Completed/Not Completed)" title="Direct link to Task Status (Completed/Not Completed)">​</a></h3>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->SCRUM-24: Access Ticket Information - User</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->SCRUM-46: Create Tickets - Admin</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->SCRUM-21: Buy Ticket - Persist in Ticket Service</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->SCRUM-47: Edit Ticket - Admin</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->SCRUM-48: List Purchased Tickets - Admin</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->SCRUM-50: Validate Ticket</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->SCRUM-55: List Created Tickets - Admin</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="user-stories">User Stories<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%205#user-stories" class="hash-link" aria-label="Direct link to User Stories" title="Direct link to User Stories">​</a></h2>
+<table><thead><tr><th>User Stories</th><th>Description</th><th>Developer</th><th>State</th><th>Story Points</th></tr></thead><tbody><tr><td>SCRUM-24</td><td>Access Ticket Information - User</td><td>All</td><td>TODO</td><td>3</td></tr><tr><td>SCRUM-46</td><td>Create Tickets - Admin</td><td>All</td><td>Done</td><td>3</td></tr><tr><td>SCRUM-21</td><td>Buy Ticket - Persist in Ticket Service</td><td>All</td><td>Done</td><td>3</td></tr><tr><td>SCRUM-47</td><td>Edit Ticket - Admin</td><td>All</td><td>Done</td><td>3</td></tr><tr><td>SCRUM-48</td><td>List Purchased Tickets - Admin</td><td>Unassigned</td><td>TODO</td><td>3</td></tr><tr><td>SCRUM-50</td><td>Validate Ticket</td><td>All</td><td>Done</td><td>5</td></tr><tr><td>SCRUM-55</td><td>List Created Tickets - Admin</td><td>All</td><td>Done</td><td>3</td></tr></tbody></table>
+<p>Team Velocity: 17</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%205#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
+<table><thead><tr><th>Concluded</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>6</td></tr><tr><td>Epics</td><td>2</td></tr><tr><td>Story Points</td><td>17</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-retrospective">Sprint Retrospective<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%205#sprint-retrospective" class="hash-link" aria-label="Direct link to Sprint Retrospective" title="Direct link to Sprint Retrospective">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-we-did-well">What we did well<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%205#what-we-did-well" class="hash-link" aria-label="Direct link to What we did well" title="Direct link to What we did well">​</a></h3>
+<p>In this sprint, we managed to complete all the logic related to the ticket service, that was the main goal of this sprint. With this, we concluded the goals for our project after the redeffinition of the project scope.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burndown-chart">Sprint Burndown Chart<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%205#sprint-burndown-chart" class="hash-link" aria-label="Direct link to Sprint Burndown Chart" title="Direct link to Sprint Burndown Chart">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Burndown Chart" src="https://sports-club-management-platform.github.io/microsite/assets/images/burndown_chart_sprint_5-6c6b5f4afa51507fa6af4d76cd3db5eb.png" width="1568" height="570" class="img_ev3q"></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sprint 4]]></title>
+            <link>https://sports-club-management-platform.github.io/microsite/blog/Sprint 4</link>
+            <guid>https://sports-club-management-platform.github.io/microsite/blog/Sprint 4</guid>
+            <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[From: 2024-12-20]]></description>
+            <content:encoded><![CDATA[<p><strong>From</strong>: 2024-12-20</p>
+<p><strong>To</strong>: 2024-01-03</p>
+<p><strong>Scrum Master</strong>: Hugo Correia</p>
+<p><strong>Product Owner</strong>: André Oliveira</p>
+<p><strong>Developers</strong>: Joaquim Rosa, Miguel Belchior, Alexandre Cotorobai</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-goal">Sprint Goal<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%204#sprint-goal" class="hash-link" aria-label="Direct link to Sprint Goal" title="Direct link to Sprint Goal">​</a></h2>
+<p>In order to complete this sprint, we need to implement the following tasks:</p>
+<ul>
+<li>Access Ticket Information - User</li>
+<li>Create Tickets - Admin</li>
+<li>Admin Login and Registration</li>
+<li>Terraform</li>
+<li>List Created Tickets - Admin</li>
+<li>CI/CD Pipelines</li>
+<li>End-to-End Containerization</li>
+</ul>
+<table><thead><tr><th>Expected</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>7</td></tr><tr><td>Epics</td><td>2</td></tr><tr><td>Story Points</td><td>12</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-backlog">Sprint Backlog<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%204#sprint-backlog" class="hash-link" aria-label="Direct link to Sprint Backlog" title="Direct link to Sprint Backlog">​</a></h2>
+<table><thead><tr><th>Tasks (SCRUM-*)</th><th>Description</th><th>Developer</th><th>State</th></tr></thead><tbody><tr><td>SCRUM-24</td><td>Access Ticket Information - User</td><td>Hugo Correia</td><td>TODO</td></tr><tr><td>SCRUM-46</td><td>Create Tickets - Admin</td><td>Miguel Belchior</td><td>In Progress</td></tr><tr><td>SCRUM-49</td><td>Admin Login and Registration</td><td>Alexandre Cotorobai</td><td>Done</td></tr><tr><td>SCRUM-53</td><td>Terraform</td><td>André Oliveira</td><td>Done</td></tr><tr><td>SCRUM-55</td><td>List Created Tickets - Admin</td><td>Hugo Correia</td><td>In Progress</td></tr><tr><td>SCRUM-65</td><td>CI/CD Pipelines</td><td>André Oliveira</td><td>Done</td></tr><tr><td>SCRUM-66</td><td>End-to-End Containerization</td><td>Alexandre Cotorobai</td><td>Done</td></tr></tbody></table>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="task-status-completednot-completed">Task Status (Completed/Not Completed)<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%204#task-status-completednot-completed" class="hash-link" aria-label="Direct link to Task Status (Completed/Not Completed)" title="Direct link to Task Status (Completed/Not Completed)">​</a></h3>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->SCRUM-65: CI/CD Pipelines</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->SCRUM-66: End-to-End Containerization</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->SCRUM-53: Terraform</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->SCRUM-49: Admin Login and Registration</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->SCRUM-46: Create Tickets - Admin</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->SCRUM-55: List Created Tickets - Admin</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->SCRUM-24: Access Ticket Information - User</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="user-stories">User Stories<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%204#user-stories" class="hash-link" aria-label="Direct link to User Stories" title="Direct link to User Stories">​</a></h2>
+<table><thead><tr><th>User Stories</th><th>Description</th><th>Developer</th><th>State</th><th>Story Points</th></tr></thead><tbody><tr><td>SCRUM-24</td><td>Access Ticket Information</td><td>Hugo Correia</td><td>TODO</td><td>3</td></tr><tr><td>SCRUM-46</td><td>Create Tickets - Admin</td><td>Miguel Belchior</td><td>In Progress</td><td>3</td></tr><tr><td>SCRUM-49</td><td>Admin Login and Registration</td><td>Alexandre Cotorobai</td><td>Done</td><td>3</td></tr><tr><td>SCRUM-55</td><td>List Created Tickets - Admin</td><td>Hugo Correia</td><td>In Progress</td><td>3</td></tr></tbody></table>
+<p>Team Velocity: 3</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-review">Sprint Review<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%204#sprint-review" class="hash-link" aria-label="Direct link to Sprint Review" title="Direct link to Sprint Review">​</a></h2>
+<table><thead><tr><th>Concluded</th><th>Quantity</th></tr></thead><tbody><tr><td>Tasks</td><td>4</td></tr><tr><td>Epics</td><td>1</td></tr><tr><td>Story Points</td><td>3</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-retrospective">Sprint Retrospective<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%204#sprint-retrospective" class="hash-link" aria-label="Direct link to Sprint Retrospective" title="Direct link to Sprint Retrospective">​</a></h2>
+<p>Although we are behind schedule, we implemented the terraform, which was one of the main objectives of this sprint. We also implemented the user story for admin login and registration, CI/CD pipelines, and end-to-end containerization. The user story for listing created tickets - admin is in progress, and the user story for creating tickets - admin is in progress.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sprint-burndown-chart">Sprint Burndown Chart<a href="https://sports-club-management-platform.github.io/microsite/blog/Sprint%204#sprint-burndown-chart" class="hash-link" aria-label="Direct link to Sprint Burndown Chart" title="Direct link to Sprint Burndown Chart">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Burndown Chart" src="https://sports-club-management-platform.github.io/microsite/assets/images/burndown_chart_sprint4-6dc91a5da8f4c1431c2dc3e34ef96a76.png" width="1558" height="588" class="img_ev3q"></p>]]></content:encoded>
+        </item>
     </channel>
 </rss>
